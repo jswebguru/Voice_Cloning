@@ -114,13 +114,13 @@ The loss curves, synthesized mel-spectrograms, and audios are shown.
 # Citation
 
 ```
-@misc{lee2021stylespeech,
-  author = {Lee, Keon},
+@misc{Tomi2021stylespeech,
+  author = {Tomislav},
   title = {StyleSpeech},
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/keonlee9420/StyleSpeech}}
+  howpublished = {\url{https://github.com/gswebguru/Voice_Cloning}}
 }
 ```
 
